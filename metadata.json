@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Analítico Financeiro",
+  "description": "Dashboard analítico para processamento de demonstrações contábeis e geração de relatórios de saúde financeira com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
